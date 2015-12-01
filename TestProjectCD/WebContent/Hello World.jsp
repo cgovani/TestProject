@@ -7,6 +7,6 @@
 <title>Hello World - CI CD Sample</title>
 </head>
 <body>
-<%= "Hi There - this is a demo" %>
+<%= "Hi There - this is a demo site" %>
 </body>
 </html>
